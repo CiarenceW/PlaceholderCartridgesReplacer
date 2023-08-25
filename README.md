@@ -10,6 +10,10 @@ Cartridges with replaced models:
   - 5.56x45mm
 
 More to come, when a mod using one of the remaining cartridges gets released.
+
+## Requirements
+- [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)
+- [Receiver 2 Modding Kit](https://github.com/Szikaka-97/Receiver2ModdingKit)
   
 ## Installation
 Extract the files in your BepInEx plugins folder
